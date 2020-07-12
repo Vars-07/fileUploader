@@ -1,4 +1,4 @@
-# mindtickle-assignment
+# File Uploader
 
 A Fully Functional File Uploader, that supports uploading files of desired extension, multiple files can also be uploaded at the same time.
 
